@@ -5,3 +5,5 @@ dist/
 .parcel-cache/
 # Nova related files
 .nova/
+# Mac related files
+.DS_Store
